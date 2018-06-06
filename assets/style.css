@@ -1,0 +1,40 @@
+
+.Size
+{
+	float:right;
+}
+
+.color
+{
+	color:#F25268 !important; 
+	font-weight: bold;
+}
+
+table.spacing {
+    border-collapse: separate;
+    border-spacing: 0px 3px; 
+}
+
+.background1
+{
+	background: #FFF3CD;
+}
+
+.background2
+{
+	background: #D4EDDA;
+}
+
+
+.color1
+{
+	color:#F8A058!important; 
+	font-weight: bold;
+}
+
+.color2
+{
+	color:#0F9D58 !important; 
+	font-weight: bold;
+}
+

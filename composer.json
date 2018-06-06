@@ -1,0 +1,6 @@
+{
+    "name": "ltweb1/d15",
+    "require": {
+    	"gregwar/captcha": "1.*"
+    }
+}
